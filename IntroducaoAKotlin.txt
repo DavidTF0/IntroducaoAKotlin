@@ -31,6 +31,7 @@ Excelente suporte a programação funcional
 Kotlin é null safe e tende a eliminar NullPointerException acidentais
 
 Quem está usando o Kotlin?
+
 Google
 
 Amazon
@@ -54,6 +55,7 @@ Basecamp
 JetBrains
 
 Quais frameworks suportam Kotlin
+
 Spring
 
 Gradle
@@ -65,3 +67,31 @@ Spark Java
 Codename One
 
 JetBrains
+
+
+Principais Características
+A linguagem é moderna, criada em 2011, então uma menor quantidade de código para as mesmas funcionalidades, quando comparando com algoritmos Java, é algo esperado. Algumas outras características são:
+
+Compatível com JDK 6, logo, algoritmos Kotlin são aceitos em qualquer versão do Android;
+100% de interoperabilidade com o Java. É possível utilizar código Kotlin em Java e vice versa;
+Aplicativos Android Kotlin são tão rápidos quanto aplicativos Android Java, podendo ser até mais eficientes;
+Códigos getters e setters estão presentes de forma implícita, liberando ainda mais espaço para algoritmos mais concisos;
+A linguagem é type-safe, como o Java, e também null-safe, ou seja, caso precise do valor null em sua lógica de negócio, terá de definir isso de forma explicita;
+Utiliza cast inteligente e inferência, esse último nos alivia de termos de colocar tipos de dados quando esse é evidente;
+A linguagem suporta facilmente os paradigmas "Orientação a objetos" e "Funcional";
+O Android Studio tem 100% de suporte a linguagem.
+Essas são algumas das características de destaque, busquei colocar as mais relevantes para você, desenvolvedor Android. As que mais impressionam são: 100% de interoperabilidade com o Java e a possibilidade de ter aplicativos ainda mais eficientes.
+
+Se está com receio de algumas das libraries em uso, em seus projetos, pararem de funcionar, não se preocupe, todas as APIs que rodam no Java rodam também no Kotlin.
+
+Como informado no início do artigo, as características do Kotlin não são tão únicas, muitas já estavam presentes em linguagens como Scala e Groovy, porém as duas características que enfatizamos a pouco fazem da linguagem um facilitador para programadores Android.
+
+Algum aplicativo Android já utiliza essa nova linguagem em produção?
+Provavelmente alguns milhares, mas os maiores que a utilizam, e que o uso da linguagem foi publicado, são:
+
+Pinterest, com aproximadamente 150 milhões de usuários mensais;
+Basecamp 3, alias esse utiliza o Kotlin em 100% do projeto;
+Keepsafe, como Basecamp, também com 100% do código em Kotlin.
+Há informes de que algumas empresas de softwares bancários já utilizam o Kotlin em suas bases de código, mas nada ainda divulgado na página oficial da linguagem.
+
+Vale ressaltar que o Kotlin adiciona somente algumas centenas de métodos ao projeto Android e um pouco menos do que 100 KB ao APK final. Com o Proguard em uso é possível diminuir esses números ainda mais.
