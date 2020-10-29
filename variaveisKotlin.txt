@@ -1,0 +1,9 @@
+O Kotlin usa duas palavras-chave diferentes para declarar variáveis: val e var.
+
+Use val para uma variável cujo valor nunca muda. Não é possível reatribuir um valor a uma variável que tenha sido declarada usando val.
+Use var para uma variável cujo valor possa ser mudado.
+
+Inferência de tipo
+Continuando com o exemplo anterior, quando você atribui um valor inicial a languageName, o compilador Kotlin pode inferir o tipo com base no tipo do valor atribuído.
+
+Como o valor de "Kotlin" é do tipo String, o compilador infere que languageName também é um String. O Kotlin é uma linguagem estática. Isso significa que o tipo é resolvido no momento da compilação e nunca muda.
