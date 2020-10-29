@@ -1,0 +1,97 @@
+O que é Kotlin?
+Kotlin é uma linguagem de tipagem estática. Por esse motivo, o tipo de uma variável sempre será checado antes do programa entrar em execução.
+
+Com isso ganhamos:
+
+Segurança: erros de escrita do código são detectados mais durante a compilação.
+
+Performance: o conhecimento prévio dos tipos permite a otimização do código de máquina.
+
+Pra que se usa Kotlin?
+Kotlin é compatível com a JVM e pode ser usada no Android e na web com Spring ou qualquer outro framework Java.
+
+No Android, em especial, diversas alterações na API original foram distribuídas através da biblioteca KTX para que programadores Kotlin ficassem mais à vontade ao utilizar os recursos dessa linguagem.
+
+Kotlin é orientada a objetos ou funcional?
+Grande parte das linguagens de programação são ao mesmo tempo funcionais e orientadas a objetos atualmente e Kotlin não foge a essa regra, suportando ambos os paradigmas.
+
+Kotlin é difícil de aprender?
+Kotlin é fácil de aprender e logo conseguimos avançar com ela. Contudo, ela possui uma carga idiomática forte e se passa boa parte do tempo aprendendo como escrever um código “do jeito do Kotlin” após passado esse início.
+
+Kotlin ou Java?
+Estima-se que com Kotlin a quantidade de código escrito cai cerca de 40% em relação ao Java. Além disso Kotlin é uma linguagem “null safe”, o que reduz erros como NullPointerException acidentais.
+
+Por que aprender Kotlin?
+Kotlin é a linguagem oficial para desenvolvimento Android
+
+O volume de código é reduzido em cerca de 40% com Kotlin em relação ao Java
+
+Excelente suporte a programação funcional
+
+Kotlin é null safe e tende a eliminar NullPointerException acidentais
+
+Quem está usando o Kotlin?
+
+Google
+
+Amazon
+
+Netflix
+
+Pinterest
+
+Uber
+
+Foursquare
+
+Trello
+
+Capital One
+
+Coursera
+
+Basecamp
+
+JetBrains
+
+Quais frameworks suportam Kotlin
+
+Spring
+
+Gradle
+
+Vert.x
+
+Spark Java
+
+Codename One
+
+JetBrains
+
+
+Principais Características
+A linguagem é moderna, criada em 2011, então uma menor quantidade de código para as mesmas funcionalidades, quando comparando com algoritmos Java, é algo esperado. Algumas outras características são:
+
+Compatível com JDK 6, logo, algoritmos Kotlin são aceitos em qualquer versão do Android;
+100% de interoperabilidade com o Java. É possível utilizar código Kotlin em Java e vice versa;
+Aplicativos Android Kotlin são tão rápidos quanto aplicativos Android Java, podendo ser até mais eficientes;
+Códigos getters e setters estão presentes de forma implícita, liberando ainda mais espaço para algoritmos mais concisos;
+A linguagem é type-safe, como o Java, e também null-safe, ou seja, caso precise do valor null em sua lógica de negócio, terá de definir isso de forma explicita;
+Utiliza cast inteligente e inferência, esse último nos alivia de termos de colocar tipos de dados quando esse é evidente;
+A linguagem suporta facilmente os paradigmas "Orientação a objetos" e "Funcional";
+O Android Studio tem 100% de suporte a linguagem.
+Essas são algumas das características de destaque, busquei colocar as mais relevantes para você, desenvolvedor Android. As que mais impressionam são: 100% de interoperabilidade com o Java e a possibilidade de ter aplicativos ainda mais eficientes.
+
+Se está com receio de algumas das libraries em uso, em seus projetos, pararem de funcionar, não se preocupe, todas as APIs que rodam no Java rodam também no Kotlin.
+
+Como informado no início do artigo, as características do Kotlin não são tão únicas, muitas já estavam presentes em linguagens como Scala e Groovy, porém as duas características que enfatizamos a pouco fazem da linguagem um facilitador para programadores Android.
+
+Algum aplicativo Android já utiliza essa nova linguagem em produção?
+Provavelmente alguns milhares, mas os maiores que a utilizam, e que o uso da linguagem foi publicado, são:
+
+Pinterest, com aproximadamente 150 milhões de usuários mensais;
+Basecamp 3, alias esse utiliza o Kotlin em 100% do projeto;
+Keepsafe, como Basecamp, também com 100% do código em Kotlin.
+Há informes de que algumas empresas de softwares bancários já utilizam o Kotlin em suas bases de código, mas nada ainda divulgado na página oficial da linguagem.
+
+Vale ressaltar que o Kotlin adiciona somente algumas centenas de métodos ao projeto Android e um pouco menos do que 100 KB ao APK final. Com o Proguard em uso é possível diminuir esses números ainda mais.
