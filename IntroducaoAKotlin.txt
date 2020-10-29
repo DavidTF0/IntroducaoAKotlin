@@ -1,0 +1,67 @@
+O que é Kotlin?
+Kotlin é uma linguagem de tipagem estática. Por esse motivo, o tipo de uma variável sempre será checado antes do programa entrar em execução.
+
+Com isso ganhamos:
+
+Segurança: erros de escrita do código são detectados mais durante a compilação.
+
+Performance: o conhecimento prévio dos tipos permite a otimização do código de máquina.
+
+Pra que se usa Kotlin?
+Kotlin é compatível com a JVM e pode ser usada no Android e na web com Spring ou qualquer outro framework Java.
+
+No Android, em especial, diversas alterações na API original foram distribuídas através da biblioteca KTX para que programadores Kotlin ficassem mais à vontade ao utilizar os recursos dessa linguagem.
+
+Kotlin é orientada a objetos ou funcional?
+Grande parte das linguagens de programação são ao mesmo tempo funcionais e orientadas a objetos atualmente e Kotlin não foge a essa regra, suportando ambos os paradigmas.
+
+Kotlin é difícil de aprender?
+Kotlin é fácil de aprender e logo conseguimos avançar com ela. Contudo, ela possui uma carga idiomática forte e se passa boa parte do tempo aprendendo como escrever um código “do jeito do Kotlin” após passado esse início.
+
+Kotlin ou Java?
+Estima-se que com Kotlin a quantidade de código escrito cai cerca de 40% em relação ao Java. Além disso Kotlin é uma linguagem “null safe”, o que reduz erros como NullPointerException acidentais.
+
+Por que aprender Kotlin?
+Kotlin é a linguagem oficial para desenvolvimento Android
+
+O volume de código é reduzido em cerca de 40% com Kotlin em relação ao Java
+
+Excelente suporte a programação funcional
+
+Kotlin é null safe e tende a eliminar NullPointerException acidentais
+
+Quem está usando o Kotlin?
+Google
+
+Amazon
+
+Netflix
+
+Pinterest
+
+Uber
+
+Foursquare
+
+Trello
+
+Capital One
+
+Coursera
+
+Basecamp
+
+JetBrains
+
+Quais frameworks suportam Kotlin
+Spring
+
+Gradle
+
+Vert.x
+
+Spark Java
+
+Codename One
+
+JetBrains
