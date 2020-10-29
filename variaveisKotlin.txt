@@ -7,3 +7,5 @@ Inferência de tipo
 Continuando com o exemplo anterior, quando você atribui um valor inicial a languageName, o compilador Kotlin pode inferir o tipo com base no tipo do valor atribuído.
 
 Como o valor de "Kotlin" é do tipo String, o compilador infere que languageName também é um String. O Kotlin é uma linguagem estática. Isso significa que o tipo é resolvido no momento da compilação e nunca muda.
+
+Desenvolvida pela JetBrains, o nome Kotlin é baseado na ilha de Kotlin, onde se situa a cidade russa de Kronstadt, próximo a São Petersburgo.
